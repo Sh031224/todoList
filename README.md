@@ -16,14 +16,12 @@ LocalStorage를 활용하여 입력한 TodoList를 언제든 볼 수 있습니�
 ### 스크린샷
 
 <div>
-  <img src="https://user-images.githubusercontent.com/51149996/73795634-704b6800-47ee-11ea-880e-a56d8fdfdda8.jpg" width="32%">
-  <img src="https://user-images.githubusercontent.com/51149996/73795655-7fcab100-47ee-11ea-8646-e05dae54bc13.jpg" width="32%">
-  <img src="https://user-images.githubusercontent.com/51149996/73795757-c91b0080-47ee-11ea-9654-840dbe709051.jpg" width="32%">
-</div>
-<div>
-  <img src="https://user-images.githubusercontent.com/51149996/73795659-822d0b00-47ee-11ea-9c1e-6eff9726fde6.jpg" width="32%">
-  <img src="https://user-images.githubusercontent.com/51149996/73795666-86592880-47ee-11ea-8d58-c1655751ce58.jpg" width="32%">
-  <img src="https://user-images.githubusercontent.com/51149996/73795668-878a5580-47ee-11ea-9edb-3c9fdcbaecbe.jpg" width="32%">
+  <img src="https://user-images.githubusercontent.com/51149996/73795634-704b6800-47ee-11ea-880e-a56d8fdfdda8.jpg" width="145">
+  <img src="https://user-images.githubusercontent.com/51149996/73795655-7fcab100-47ee-11ea-8646-e05dae54bc13.jpg" width="145">
+  <img src="https://user-images.githubusercontent.com/51149996/73795757-c91b0080-47ee-11ea-9654-840dbe709051.jpg" width="145">
+  <img src="https://user-images.githubusercontent.com/51149996/73795659-822d0b00-47ee-11ea-9c1e-6eff9726fde6.jpg" width="145">
+  <img src="https://user-images.githubusercontent.com/51149996/73795666-86592880-47ee-11ea-8d58-c1655751ce58.jpg" width="145">
+  <img src="https://user-images.githubusercontent.com/51149996/73795668-878a5580-47ee-11ea-9edb-3c9fdcbaecbe.jpg" width="145">
 </div>
 
 ## 개발환경
